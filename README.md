@@ -1,4 +1,3 @@
-
 # Laboratorio de caída libre
 
 ## Descripción
@@ -20,8 +19,7 @@ La altura inicial utilizada es de 10.00 m.
 - `main.py`: programa principal.
 - `pruebas.py`: pruebas del programa.
 - `caida_libre_sintetica.csv`: datos sintéticos utilizados en el análisis.
-- `informe.pdf`: informe del laboratorio.
-
+- [Informe del laboratorio en PDF](Informe_Laboratorio_Caida_Libre.pdf)
 ## Requisitos
 
 - Python 3.
