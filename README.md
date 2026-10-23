@@ -22,8 +22,13 @@ La altura inicial utilizada es de 10.00 m.
 - [Informe del laboratorio en PDF](Informe_Laboratorio_Caida_Libre.pdf)
 ## Requisitos
 
-- Python 3.
-- No se requieren bibliotecas externas.
+
+## Requisitos y dependencias
+
+- **Lenguaje:** Python 3.
+- **Dependencias externas:** ninguna.
+- **Bibliotecas utilizadas:** módulos de la biblioteca estándar de Python, como `pathlib`, `csv` y `math`, según las importaciones del código.
+- **Versión exacta de Python:** pendiente de verificar en el entorno de ejecución.
 
 ## Cómo ejecutar
 
