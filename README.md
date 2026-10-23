@@ -19,9 +19,7 @@ La altura inicial utilizada es de 10.00 m.
 - `main.py`: programa principal.
 - `pruebas.py`: pruebas del programa.
 - `caida_libre_sintetica.csv`: datos sintéticos utilizados en el análisis.
-- [Informe del laboratorio en PDF](Informe_Laboratorio_Caida_Libre.pdf)
-## Requisitos
-
+- [Informe del laboratorio en PDF](./Informe_Laboratorio_Caida_Libre.pdf)
 
 ## Requisitos y dependencias
 
