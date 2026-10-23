@@ -50,6 +50,15 @@ El programa valida los datos del archivo CSV, calcula estimaciones de la graveda
 
 Los resultados detallados se presentan en el informe PDF.
 
+## Comprobaciones
+
+El archivo `pruebas.py` contiene las pruebas del programa. Los resultados de su ejecución deben verificarse antes de afirmar que todas las pruebas fueron aprobadas.
+
+## Limitaciones
+
+Los datos utilizados son sintéticos y no corresponden a mediciones experimentales reales. Las estimaciones de la gravedad pueden ser sensibles a los datos registrados en tiempos pequeños. Por ello, los resultados deben interpretarse teniendo en cuenta estas limitaciones.
+
+
 ## Autoría
 
 - Estudiante: [Ximena Criollo Grisales]
